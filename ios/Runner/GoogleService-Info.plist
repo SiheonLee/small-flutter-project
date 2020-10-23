@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>390242061903-csh4jfdu1lhal28svlblq0dvgd26jam9.apps.googleusercontent.com</string>
+	<string>994148331313-8uro22e5kt3t4mva0tdn1p8ho0dfseuh.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.390242061903-csh4jfdu1lhal28svlblq0dvgd26jam9</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>390242061903-0vobcmghf1phr969rgi2vukb3tnlvn3a.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.994148331313-8uro22e5kt3t4mva0tdn1p8ho0dfseuh</string>
 	<key>API_KEY</key>
-	<string>AIzaSyCUbqrEOfSMi4WOvlrcy8_qDw6Gz0mcY2E</string>
+	<string>AIzaSyAnx5um4wkE5Iifn5BX54yU8Qt6SZtmSwg</string>
 	<key>GCM_SENDER_ID</key>
-	<string>390242061903</string>
+	<string>994148331313</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.isp</string>
+	<string>com.flata2.isp</string>
 	<key>PROJECT_ID</key>
-	<string>fluttera2-dfab6</string>
+	<string>fluttera2-d9aec</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fluttera2-dfab6.appspot.com</string>
+	<string>fluttera2-d9aec.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:390242061903:ios:9debbc89b0cca44c94243a</string>
+	<string>1:994148331313:ios:8a8e862c78d64f9c33ca10</string>
 	<key>DATABASE_URL</key>
-	<string>https://fluttera2-dfab6.firebaseio.com</string>
+	<string>https://fluttera2-d9aec.firebaseio.com</string>
 </dict>
 </plist>

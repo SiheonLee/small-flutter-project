@@ -12,7 +12,7 @@ void main() => runApp(App());
 
 class App extends StatelessWidget {
 
-  //TODO: Configure firebase to ios 
+  //TODO: Configure firebase to ios
   //TODO: Register page
   final Future<FirebaseApp> _initialisation = Firebase.initializeApp();
 
