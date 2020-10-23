@@ -16,7 +16,7 @@ class _SecurityState extends State<Security> {
 
   validate({String input}){
     Future<DocumentSnapshot> result = getCode();
-    result.then((value) =>value.get('code') == codeController.text ? Navigator.pushReplacementNamed(context, '/register') : showAlertDialog(context));
+    result.then((value) =>value.get('code') == codeController.text ? Navigator.pushReplacementNamed(context, '/home') : showAlertDialog(context));
   }
 
   Future<DocumentSnapshot> getCode() async {
