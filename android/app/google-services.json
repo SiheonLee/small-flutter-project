@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "994148331313",
+    "firebase_url": "https://fluttera2-d9aec.firebaseio.com",
+    "project_id": "fluttera2-d9aec",
+    "storage_bucket": "fluttera2-d9aec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994148331313:android:c0e1e812e405544633ca10",
+        "android_client_info": {
+          "package_name": "com.flata2.isp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994148331313-7t47h10ml0tj1mfcr9jaaeh4i50nj54v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHjdm1lbsXwlrXeKjgGd7uuNCo_yISCOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994148331313-7t47h10ml0tj1mfcr9jaaeh4i50nj54v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

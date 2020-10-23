@@ -13,8 +13,10 @@ class _LoadingState extends State<Loading> {
     WorldTime instance = WorldTime(location: 'Berlin', flag: 'germany.png', url: 'Europe/Berlin');
     await instance.getTime();
 
+
+
     Future.delayed(Duration(seconds: 2), (){
-      Navigator.pushReplacementNamed(context, '/home', arguments: {
+      Navigator.pushReplacementNamed(context, '/security', arguments: {
         'location': instance.location, 'flag': instance.flag, 'time': instance.time, 'isDaytime': instance.isDaytime
       });
     });
