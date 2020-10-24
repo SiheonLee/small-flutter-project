@@ -29,7 +29,7 @@ class _RegisterState extends State<Register> {
                 maxLength: 30,
                 controller: idController,
                 decoration: InputDecoration(
-                  hintText: 'ID'
+                    hintText: 'ID'
                 ),
               ),
               SizedBox(height: 10,),
@@ -39,7 +39,7 @@ class _RegisterState extends State<Register> {
                 enableSuggestions: false,
                 autocorrect: false,
                 decoration: InputDecoration(
-                  hintText: 'password'
+                    hintText: 'password'
                 ),
               ),
               SizedBox(height: 30,),
@@ -53,7 +53,6 @@ class _RegisterState extends State<Register> {
           ),
         ),
       ),
-
     );
-
+  }
 }
